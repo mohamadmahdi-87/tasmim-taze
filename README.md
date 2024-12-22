@@ -30,10 +30,3 @@
 - 💼 **مدیر پروژه‌های ملی و بین‌المللی**  
 - 🔧 **مشاور ارشد در زمینه فناوری و نوآوری**  
 
----
-
-## 📂 نحوه اجرا  
-
-1. 📥 **کلون کردن پروژه**:  
-   ```bash
-   git clone https://github.com/your-repo/professional-representative.git
